@@ -324,7 +324,7 @@ a:hover {
 
 .nav > li {
     float: left;
-    margin-top: 4px;
+    margin-top: -4px;
     font-size: 16px;
 }
 
@@ -440,6 +440,9 @@ nav .caret {
     margin-bottom: 20px;
     position: relative;
     z-index: 1;
+}
+.mg-md .text-center .tc-white{
+    color: #F3976C!important;
 }
 
 .mg-lg {
